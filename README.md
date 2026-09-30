@@ -1,4 +1,4 @@
-## EcoSort Waste Management Assistant
+# EcoSort Waste Management Assistant
 
 Performed by Group 6:
 - Frasiah Wanjiku
